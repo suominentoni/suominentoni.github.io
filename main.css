@@ -8,3 +8,12 @@ body {
 body div {
     margin-top: 50px;
 }
+
+.album-cover {
+    margin-top: 30px;
+    padding: 2px;
+    height: 500px;
+    width: 500px;
+    border:1px solid lightgray;
+}
+
