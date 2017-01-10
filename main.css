@@ -1,0 +1,10 @@
+body {
+    font-family: "Courier New";
+    color: gray;
+    text-align: center;
+    font-size: 120%;
+}
+
+body div {
+    margin-top: 50px;
+}
