@@ -17,3 +17,10 @@ body div {
     border:1px solid lightgray;
 }
 
+@media (max-width: 500px) {
+    .album-cover {
+        height: 300px;
+        width: 300px;
+    }
+}
+
