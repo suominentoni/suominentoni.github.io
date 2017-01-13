@@ -11,10 +11,19 @@ body div {
 
 .album-cover {
     margin-top: 30px;
+    margin-bottom: 30px;
     padding: 2px;
     height: 500px;
     width: 500px;
     border:1px solid lightgray;
+}
+
+article {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    font-size: 80%;
+    text-align: left;
 }
 
 @media (max-width: 500px) {
