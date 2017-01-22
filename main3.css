@@ -9,6 +9,45 @@ body div {
     margin-top: 30px;
 }
 
+nav {
+    height: 35px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    border-bottom: solid 1px grey;
+}
+
+nav ul {
+    padding-left: 0;
+    margin: 0 auto;
+    list-style: none;
+    display: inline-block;
+}
+
+nav ul li { float: left; }
+
+nav ul li a {
+    display: inline-block;
+    text-align: center;
+    padding: 7px 15px;
+    text-decoration: none;
+}
+
+nav ul li.icon { display: none; }
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -25px;
+    visibility: hidden;
+}
+
+.bumper {
+    height: 5px;
+}
+
 .ep {
     margin-top: 0;
     max-width: 500px;
