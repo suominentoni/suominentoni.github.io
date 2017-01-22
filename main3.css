@@ -21,7 +21,7 @@ body div {
 }
 
 nav {
-    height: 35px;
+    height: 60px;
     position: fixed;
     width: 100%;
     top: 0;
@@ -32,7 +32,7 @@ nav {
 
 nav ul {
     padding-left: 0;
-    margin: 0 auto;
+    margin: 12px auto;
     list-style: none;
     display: inline-block;
 }
@@ -78,7 +78,7 @@ nav ul li.icon { display: none; }
 a.anchor {
     display: block;
     position: relative;
-    top: -25px;
+    top: -40px;
     visibility: hidden;
 }
 
