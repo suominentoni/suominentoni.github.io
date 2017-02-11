@@ -111,6 +111,10 @@ article {
     text-align: left;
 }
 
+.song-title {
+    text-decoration: underline;
+}
+
 @media (max-width: 500px) {
     .album-cover {
         height: 300px;
